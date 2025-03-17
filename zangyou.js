@@ -21,4 +21,4 @@ for ( let i = 0; i < 31; i++ ) {
 resultHour = overTime / 60;
 resultMinute = overTime % 60;
 
-alert(resultHour + ":" + resultMinute);
+alert("残業時間は" + resultHour + "時間" + resultMinute + "分です");
