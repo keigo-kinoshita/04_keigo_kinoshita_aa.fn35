@@ -21,4 +21,4 @@ for ( let i = 0; i < 31; i++ ) {
 resultHour = overTime / 60;
 resultMinute = overTime % 60;
 
-console.log(resultHour + ":" + resultMinute);
+alert(resultHour + ":" + resultMinute);
